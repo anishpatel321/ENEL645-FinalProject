@@ -4,10 +4,10 @@
 This project by Group 23 for the ENEL 645 course explores facial expression recognition using both traditional Convolutional Neural Networks (CNNs) and advanced Transfer Learning models. Our analysis and model training are based on the FER-2013 dataset.
 
 ## Members
-Atif Pathan
-Anish Patel
-Satchy Karalasingham
-Balkarn Gill
+Atif Pathan,
+Anish Patel,
+Satchy Karalasingham,
+Balkarn Gill,
 Momin Muhammad
 
 ## Data Source
